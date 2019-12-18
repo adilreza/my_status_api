@@ -1,0 +1,41 @@
+[16-Dec-2019 14:52:02 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/adilreza/public_html/my_status_api/test.php on line 7
+[16-Dec-2019 14:57:36 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function ph_fetch_all() in /home/adilreza/public_html/my_status_api/test.php:18
+Stack trace:
+#0 {main}
+  thrown in /home/adilreza/public_html/my_status_api/test.php on line 18
+[16-Dec-2019 15:14:25 UTC] PHP Recoverable fatal error:  Object of class mysqli_result could not be converted to string in /home/adilreza/public_html/my_status_api/test.php on line 12
+[16-Dec-2019 20:24:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:25:22 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:26:16 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:26:20 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:28:02 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:28:13 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:29:37 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:30:07 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:30:10 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:30:21 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:31:39 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:32:40 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:32:40 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 33
+[16-Dec-2019 20:33:41 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:34:52 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:38:42 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:42:30 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:42:34 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:43:26 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:43:26 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:43:38 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:43:38 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:43:48 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:43:48 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:43:53 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:43:53 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:44:12 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:46:33 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:46:39 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:46:46 UTC] PHP Warning:  A non-numeric value encountered in /home/adilreza/public_html/my_status_api/user_login.php on line 25
+[16-Dec-2019 20:47:19 UTC] PHP Warning:  mysqli_num_rows() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:51:19 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[16-Dec-2019 20:51:36 UTC] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, boolean given in /home/adilreza/public_html/my_status_api/user_login.php on line 24
+[17-Dec-2019 17:08:30 UTC] PHP Warning:  print_r() expects at least 1 parameter, 0 given in /home/adilreza/public_html/my_status_api/user_status_set.php on line 17
+[17-Dec-2019 17:13:36 UTC] PHP Warning:  mysqli_error() expects parameter 1 to be mysqli, boolean given in /home/adilreza/public_html/my_status_api/user_status_set.php on line 17
